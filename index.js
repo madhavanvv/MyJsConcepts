@@ -1,1 +1,1 @@
-console.log("hello JS");
+console.log("Hello this is index JS File ");

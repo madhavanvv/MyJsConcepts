@@ -1,7 +1,7 @@
 // learn Promise
 
 const one = () => {
-  return "111111111";
+  return "111111111 waiting...";
 };
 const two = () => {
   return new Promise((resolve, reject) => {
